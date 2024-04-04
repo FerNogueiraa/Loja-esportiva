@@ -1,0 +1,233 @@
+[Wed Dec 13 14:15:32 2023] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Wed Dec 13 14:15:32 2023] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Dec 13 14:15:32 2023] [notice] Parent: Created child process 12256
+[Wed Dec 13 14:15:32 2023] [notice] Child 12256: Child process is running
+[Wed Dec 13 14:15:32 2023] [notice] Child 12256: Acquired the start mutex.
+[Wed Dec 13 14:15:32 2023] [notice] Child 12256: Starting 64 worker threads.
+[Wed Dec 13 14:15:32 2023] [notice] Child 12256: Starting thread to listen on port 8887.
+[Thu Dec 14 08:14:29 2023] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 14 08:14:29 2023] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Dec 14 08:14:29 2023] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Dec 14 08:14:29 2023] [notice] Parent: Created child process 9404
+[Thu Dec 14 08:14:29 2023] [notice] Child 9404: Child process is running
+[Thu Dec 14 08:14:29 2023] [notice] Child 9404: Acquired the start mutex.
+[Thu Dec 14 08:14:29 2023] [notice] Child 9404: Starting 64 worker threads.
+[Thu Dec 14 08:14:29 2023] [notice] Child 9404: Starting thread to listen on port 8887.
+[Thu Dec 14 08:14:35 2023] [notice] Parent: Received restart signal -- Restarting the server.
+[Thu Dec 14 08:14:35 2023] [notice] Child 9404: Exit event signaled. Child process is ending.
+[Thu Dec 14 08:14:35 2023] [warn] (OS 995)A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.  : winnt_accept: Asynchronous AcceptEx failed.
+[Thu Dec 14 08:14:35 2023] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Dec 14 08:14:35 2023] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Dec 14 08:14:35 2023] [notice] Parent: Created child process 8296
+[Thu Dec 14 08:14:35 2023] [notice] Child 8296: Child process is running
+[Thu Dec 14 08:14:36 2023] [notice] Child 9404: Released the start mutex
+[Thu Dec 14 08:14:36 2023] [notice] Child 8296: Acquired the start mutex.
+[Thu Dec 14 08:14:36 2023] [notice] Child 8296: Starting 64 worker threads.
+[Thu Dec 14 08:14:36 2023] [notice] Child 8296: Starting thread to listen on port 8080.
+[Thu Dec 14 08:14:52 2023] [notice] Child 9404: All worker threads have exited.
+[Thu Dec 14 08:14:52 2023] [notice] Child 9404: Child process is exiting
+[Thu Feb 15 16:21:23 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 15 16:21:24 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Feb 15 16:21:24 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Feb 15 16:21:24 2024] [notice] Parent: Created child process 12612
+[Thu Feb 15 16:21:24 2024] [notice] Child 12612: Child process is running
+[Thu Feb 15 16:21:24 2024] [notice] Child 12612: Acquired the start mutex.
+[Thu Feb 15 16:21:24 2024] [notice] Child 12612: Starting 64 worker threads.
+[Thu Feb 15 16:21:24 2024] [notice] Child 12612: Starting thread to listen on port 8080.
+[Thu Feb 15 16:21:43 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 15 16:21:43 2024] [notice] Child 12612: Exit event signaled. Child process is ending.
+[Thu Feb 15 16:21:44 2024] [notice] Child 12612: Released the start mutex
+[Thu Feb 15 16:21:45 2024] [notice] Child 12612: All worker threads have exited.
+[Thu Feb 15 16:21:45 2024] [notice] Child 12612: Child process is exiting
+[Thu Feb 15 16:21:45 2024] [notice] Parent: Child process exited successfully.
+[Mon Feb 19 16:25:43 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Feb 19 16:25:43 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Feb 19 16:25:43 2024] [notice] Parent: Created child process 22248
+[Mon Feb 19 16:25:43 2024] [notice] Child 22248: Child process is running
+[Mon Feb 19 16:25:43 2024] [notice] Child 22248: Acquired the start mutex.
+[Mon Feb 19 16:25:43 2024] [notice] Child 22248: Starting 64 worker threads.
+[Mon Feb 19 16:25:43 2024] [notice] Child 22248: Starting thread to listen on port 8080.
+[Mon Feb 19 17:14:54 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 19 17:14:54 2024] [notice] Child 22248: Exit event signaled. Child process is ending.
+[Mon Feb 19 17:14:55 2024] [notice] Child 22248: Released the start mutex
+[Mon Feb 19 17:14:56 2024] [notice] Child 22248: All worker threads have exited.
+[Mon Feb 19 17:14:56 2024] [notice] Child 22248: Child process is exiting
+[Mon Feb 19 17:14:57 2024] [notice] Parent: Child process exited successfully.
+[Mon Feb 26 13:26:29 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Feb 26 13:26:29 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Feb 26 13:26:29 2024] [notice] Parent: Created child process 11432
+[Mon Feb 26 13:26:29 2024] [notice] Child 11432: Child process is running
+[Mon Feb 26 13:26:29 2024] [notice] Child 11432: Acquired the start mutex.
+[Mon Feb 26 13:26:29 2024] [notice] Child 11432: Starting 64 worker threads.
+[Mon Feb 26 13:26:29 2024] [notice] Child 11432: Starting thread to listen on port 8080.
+[Mon Feb 26 13:53:20 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Mon Feb 26 13:53:26 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 88, referer: http://127.0.0.1:8080/cadastromarcas.html
+[Mon Feb 26 13:53:27 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 88, referer: http://127.0.0.1:8080/cadastromarcas.html
+[Mon Feb 26 13:53:28 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 88, referer: http://127.0.0.1:8080/cadastromarcas.html
+[Mon Feb 26 13:53:30 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 88, referer: http://127.0.0.1:8080/cadastromarcas.html
+[Mon Feb 26 13:53:30 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 88, referer: http://127.0.0.1:8080/cadastromarcas.html
+[Mon Feb 26 13:53:30 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 88, referer: http://127.0.0.1:8080/cadastromarcas.html
+[Mon Feb 26 13:53:45 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 88, referer: http://127.0.0.1:8080/cadastromarcas.html
+[Mon Feb 26 15:05:19 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: nome in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastromarcas.php on line 17, referer: http://127.0.0.1:8080/cadastroveiculos.html
+[Mon Feb 26 17:29:07 2024] [notice] Parent: child process exited with status 1073807364 -- Restarting.
+[Mon Feb 26 17:29:07 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Feb 26 17:29:07 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Feb 26 17:29:07 2024] [notice] Parent: Created child process 23960
+[Mon Feb 26 17:29:07 2024] [crit] master_main: create child process failed. Exiting.
+[Thu Feb 29 16:03:39 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Feb 29 16:03:39 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Feb 29 16:03:39 2024] [notice] Parent: Created child process 6136
+[Thu Feb 29 16:03:39 2024] [notice] Child 6136: Child process is running
+[Thu Feb 29 16:03:39 2024] [notice] Child 6136: Acquired the start mutex.
+[Thu Feb 29 16:03:39 2024] [notice] Child 6136: Starting 64 worker threads.
+[Thu Feb 29 16:03:39 2024] [notice] Child 6136: Starting thread to listen on port 8080.
+[Thu Feb 29 17:05:37 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Thu Feb 29 17:05:39 2024] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastroveiculos.php on line 40, referer: http://127.0.0.1:8080/
+[Wed Mar 06 16:08:32 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 06 16:08:32 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Wed Mar 06 16:08:32 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Mar 06 16:08:32 2024] [notice] Parent: Created child process 22040
+[Wed Mar 06 16:08:32 2024] [notice] Child 22040: Child process is running
+[Wed Mar 06 16:08:32 2024] [notice] Child 22040: Acquired the start mutex.
+[Wed Mar 06 16:08:32 2024] [notice] Child 22040: Starting 64 worker threads.
+[Wed Mar 06 16:08:32 2024] [notice] Child 22040: Starting thread to listen on port 8080.
+[Wed Mar 06 16:09:30 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Thu Mar 07 14:32:20 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 07 14:32:20 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Mar 07 14:32:20 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 07 14:32:20 2024] [notice] Parent: Created child process 21156
+[Thu Mar 07 14:32:20 2024] [notice] Child 21156: Child process is running
+[Thu Mar 07 14:32:20 2024] [notice] Child 21156: Acquired the start mutex.
+[Thu Mar 07 14:32:20 2024] [notice] Child 21156: Starting 64 worker threads.
+[Thu Mar 07 14:32:20 2024] [notice] Child 21156: Starting thread to listen on port 8080.
+[Thu Mar 07 14:32:52 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Thu Mar 07 14:38:25 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cod_modelo in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastroveiculos.php on line 18, referer: http://127.0.0.1:8080/cadastroveiculos.htm
+[Mon Mar 11 14:19:02 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 11 14:19:02 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Mar 11 14:19:02 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Mar 11 14:19:02 2024] [notice] Parent: Created child process 1924
+[Mon Mar 11 14:19:02 2024] [notice] Child 1924: Child process is running
+[Mon Mar 11 14:19:02 2024] [notice] Child 1924: Acquired the start mutex.
+[Mon Mar 11 14:19:02 2024] [notice] Child 1924: Starting 64 worker threads.
+[Mon Mar 11 14:19:02 2024] [notice] Child 1924: Starting thread to listen on port 8080.
+[Mon Mar 11 14:19:06 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Mon Mar 11 15:05:16 2024] [error] [client 127.0.0.1] script 'C:/Program Files (x86)/EasyPHP-5.3.9/www/cadastrarusuarios.php' not found or unable to stat, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 11 15:05:50 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Mon Mar 11 15:06:00 2024] [error] [client 127.0.0.1] script 'C:/Program Files (x86)/EasyPHP-5.3.9/www/cadastrarusuarios.php' not found or unable to stat, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 11 15:22:03 2024] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 71, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 11 15:23:42 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 85, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Thu Mar 14 16:02:28 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 14 16:02:28 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Mar 14 16:02:28 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 14 16:02:28 2024] [notice] Parent: Created child process 14760
+[Thu Mar 14 16:02:28 2024] [notice] Child 14760: Child process is running
+[Thu Mar 14 16:02:28 2024] [notice] Child 14760: Acquired the start mutex.
+[Thu Mar 14 16:02:28 2024] [notice] Child 14760: Starting 64 worker threads.
+[Thu Mar 14 16:02:28 2024] [notice] Child 14760: Starting thread to listen on port 8080.
+[Mon Mar 18 16:00:48 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 18 16:00:48 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Mar 18 16:00:48 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Mar 18 16:00:48 2024] [notice] Parent: Created child process 6360
+[Mon Mar 18 16:00:48 2024] [notice] Child 6360: Child process is running
+[Mon Mar 18 16:00:48 2024] [notice] Child 6360: Acquired the start mutex.
+[Mon Mar 18 16:00:48 2024] [notice] Child 6360: Starting 64 worker threads.
+[Mon Mar 18 16:00:48 2024] [notice] Child 6360: Starting thread to listen on port 8080.
+[Mon Mar 18 16:14:15 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Mon Mar 18 16:14:53 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/menu.htm, referer: http://127.0.0.1:8080/login.htm
+[Mon Mar 18 16:24:36 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Mon Mar 18 16:27:24 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: descricao in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 59, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:24 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cod_modelo in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 60, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:24 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: ano in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 61, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:24 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cor in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 62, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:24 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: placa in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 63, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:24 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: opcionais in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 64, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:24 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: valor in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 65, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:29 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: descricao in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 30, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:29 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cod_modelo in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 31, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:29 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: ano in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 32, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:29 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cor in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 33, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:29 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: placa in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 34, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:29 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: opcionais in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 35, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:29 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: valor in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 36, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:44 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: descricao in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 30, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:44 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cod_modelo in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 31, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:44 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: ano in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 32, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:44 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cor in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 33, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:44 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: placa in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 34, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:44 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: opcionais in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 35, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:27:44 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: valor in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 36, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:28:41 2024] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastrarusuarios.php on line 92, referer: http://127.0.0.1:8080/cadastrousuario.htm
+[Mon Mar 18 16:30:24 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/menu.htm, referer: http://127.0.0.1:8080/login.htm
+[Mon Mar 18 16:35:56 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/menu.htm, referer: http://127.0.0.1:8080/login.htm
+[Mon Mar 18 16:36:13 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/menu.htm, referer: http://127.0.0.1:8080/login.htm
+[Mon Mar 18 16:36:34 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/menu.htm, referer: http://127.0.0.1:8080/login.htm
+[Mon Mar 18 16:36:48 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/menu.htm, referer: http://127.0.0.1:8080/login.htm
+[Mon Mar 18 16:36:52 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/menu.htm, referer: http://127.0.0.1:8080/login.htm
+[Thu Mar 21 13:44:30 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 21 13:44:31 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Mar 21 13:44:31 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 21 13:44:31 2024] [notice] Parent: Created child process 16504
+[Thu Mar 21 13:44:31 2024] [notice] Child 16504: Child process is running
+[Thu Mar 21 13:44:31 2024] [notice] Child 16504: Acquired the start mutex.
+[Thu Mar 21 13:44:31 2024] [notice] Child 16504: Starting 64 worker threads.
+[Thu Mar 21 13:44:31 2024] [notice] Child 16504: Starting thread to listen on port 8080.
+[Thu Mar 21 14:15:24 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Thu Mar 21 14:24:19 2024] [error] [client 127.0.0.1] PHP Notice:  Undefined index: cod_modelo in C:\\Program Files (x86)\\EasyPHP-5.3.9\\www\\cadastroveiculos.php on line 18, referer: http://127.0.0.1:8080/cadastroveiculos.htm
+[Thu Mar 21 14:26:23 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/fotos/abbd499f8554f6973d2925d62c66ef3a2.avif, referer: http://127.0.0.1:8080/cadastroveiculos.php
+[Thu Mar 21 14:27:31 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/fotos/abbd499f8554f6973d2925d62c66ef3a2.avif, referer: http://127.0.0.1:8080/cadastroveiculos.php
+[Thu Mar 21 14:30:52 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/fotos/abbd499f8554f6973d2925d62c66ef3a2.avif, referer: http://127.0.0.1:8080/cadastroveiculos.php
+[Mon Mar 25 13:13:33 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 25 13:13:34 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Mar 25 13:13:34 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Mar 25 13:13:34 2024] [notice] Parent: Created child process 2440
+[Mon Mar 25 13:13:34 2024] [notice] Child 2440: Child process is running
+[Mon Mar 25 13:13:34 2024] [notice] Child 2440: Acquired the start mutex.
+[Mon Mar 25 13:13:34 2024] [notice] Child 2440: Starting 64 worker threads.
+[Mon Mar 25 13:13:34 2024] [notice] Child 2440: Starting thread to listen on port 8080.
+[Mon Mar 25 13:56:59 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 25 13:56:59 2024] [notice] Child 2440: Exit event signaled. Child process is ending.
+[Mon Mar 25 13:57:00 2024] [notice] Child 2440: Released the start mutex
+[Mon Mar 25 13:57:01 2024] [notice] Child 2440: All worker threads have exited.
+[Mon Mar 25 13:57:01 2024] [notice] Child 2440: Child process is exiting
+[Mon Mar 25 13:57:01 2024] [notice] Parent: Child process exited successfully.
+[Mon Mar 25 13:57:03 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Mar 25 13:57:03 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Mar 25 13:57:03 2024] [notice] Parent: Created child process 3304
+[Mon Mar 25 13:57:04 2024] [notice] Child 3304: Child process is running
+[Mon Mar 25 13:57:04 2024] [notice] Child 3304: Acquired the start mutex.
+[Mon Mar 25 13:57:04 2024] [notice] Child 3304: Starting 64 worker threads.
+[Mon Mar 25 13:57:04 2024] [notice] Child 3304: Starting thread to listen on port 8080.
+[Mon Mar 25 15:33:37 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Wed Mar 27 14:57:08 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 27 14:57:08 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Wed Mar 27 14:57:08 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Mar 27 14:57:08 2024] [notice] Parent: Created child process 10560
+[Wed Mar 27 14:57:09 2024] [notice] Child 10560: Child process is running
+[Wed Mar 27 14:57:09 2024] [notice] Child 10560: Acquired the start mutex.
+[Wed Mar 27 14:57:09 2024] [notice] Child 10560: Starting 64 worker threads.
+[Wed Mar 27 14:57:09 2024] [notice] Child 10560: Starting thread to listen on port 8080.
+[Mon Apr 01 16:07:11 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 01 16:07:11 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Mon Apr 01 16:07:11 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 01 16:07:11 2024] [notice] Parent: Created child process 25304
+[Mon Apr 01 16:07:11 2024] [notice] Child 25304: Child process is running
+[Mon Apr 01 16:07:11 2024] [notice] Child 25304: Acquired the start mutex.
+[Mon Apr 01 16:07:11 2024] [notice] Child 25304: Starting 64 worker threads.
+[Mon Apr 01 16:07:11 2024] [notice] Child 25304: Starting thread to listen on port 8080.
+[Wed Apr 03 13:24:10 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 03 13:24:10 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Wed Apr 03 13:24:10 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Apr 03 13:24:10 2024] [notice] Parent: Created child process 18200
+[Wed Apr 03 13:24:10 2024] [notice] Child 18200: Child process is running
+[Wed Apr 03 13:24:10 2024] [notice] Child 18200: Acquired the start mutex.
+[Wed Apr 03 13:24:10 2024] [notice] Child 18200: Starting 64 worker threads.
+[Wed Apr 03 13:24:10 2024] [notice] Child 18200: Starting thread to listen on port 8080.
+[Wed Apr 03 13:29:27 2024] [error] [client 127.0.0.1] File does not exist: C:/Program Files (x86)/EasyPHP-5.3.9/www/favicon.ico, referer: http://127.0.0.1:8080/
+[Thu Apr 04 16:10:21 2024] [warn] pid file C:/Program Files (x86)/EasyPHP-5.3.9/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 04 16:10:21 2024] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Thu Apr 04 16:10:21 2024] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Apr 04 16:10:21 2024] [notice] Parent: Created child process 18096
+[Thu Apr 04 16:10:21 2024] [notice] Child 18096: Child process is running
+[Thu Apr 04 16:10:21 2024] [notice] Child 18096: Acquired the start mutex.
+[Thu Apr 04 16:10:21 2024] [notice] Child 18096: Starting 64 worker threads.
+[Thu Apr 04 16:10:21 2024] [notice] Child 18096: Starting thread to listen on port 8080.

@@ -1,0 +1,184 @@
+13/12 14:15:21 EasyPHP EasyPHP Servers starting
+13/12 14:15:28 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+13/12 14:15:28 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+13/12 14:15:33 EasyPHP EasyPHP &Check version
+13/12 23:54:02 EasyPHP EasyPHP Stop the servers
+13/12 23:54:02 EasyPHP Apache stop event: ap27364_shutdown
+13/12 23:54:02 EasyPHP Apache::StopExe stop event ap27364_shutdown fail : 2
+13/12 23:54:03 EasyPHP MySqlSutdown event = MySQLShutdown19156
+13/12 23:54:03 EasyPHP MySqlSutdown event open fail = 2
+13/12 23:54:03 EasyPHP End EasyPHP...
+14/12 08:14:28 EasyPHP EasyPHP Servers starting
+14/12 08:14:29 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+14/12 08:14:29 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+14/12 08:14:34 EasyPHP EasyPHP &Check version
+14/12 08:14:35 EasyPHP Apache  Configuration file changed
+14/12 08:14:35 EasyPHP Apache restart event: ap4368_restart
+14/12 10:18:07 EasyPHP EasyPHP Stop the servers
+14/12 10:18:07 EasyPHP Apache stop event: ap4368_shutdown
+14/12 10:18:07 EasyPHP Apache::StopExe stop event ap4368_shutdown fail : 2
+14/12 10:18:08 EasyPHP MySqlSutdown event = MySQLShutdown1592
+14/12 10:18:08 EasyPHP MySqlSutdown event open fail = 2
+14/12 10:18:08 EasyPHP End EasyPHP...
+15/02 16:21:23 EasyPHP EasyPHP Servers starting
+15/02 16:21:23 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+15/02 16:21:23 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+15/02 16:21:28 EasyPHP EasyPHP &Check version
+15/02 16:21:43 EasyPHP EasyPHP Stop the servers
+15/02 16:21:43 EasyPHP Apache stop event: ap12820_shutdown
+15/02 16:21:44 EasyPHP MySqlSutdown event = MySQLShutdown4872
+15/02 16:21:44 EasyPHP End EasyPHP...
+19/02 16:25:42 EasyPHP EasyPHP Servers starting
+19/02 16:25:43 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+19/02 16:25:43 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+19/02 16:25:48 EasyPHP EasyPHP &Check version
+19/02 17:14:54 EasyPHP EasyPHP Stop the servers
+19/02 17:14:54 EasyPHP Apache stop event: ap22048_shutdown
+19/02 17:14:55 EasyPHP MySqlSutdown event = MySQLShutdown22060
+19/02 17:14:55 EasyPHP End EasyPHP...
+26/02 13:26:28 EasyPHP EasyPHP Servers starting
+26/02 13:26:28 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+26/02 13:26:28 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+26/02 13:26:33 EasyPHP EasyPHP &Check version
+26/02 13:57:32 EasyPHP OnExplore : C:\PROGRA~2\EASYPH~1.9\www
+26/02 17:29:07 EasyPHP EasyPHP Stop the servers
+26/02 17:29:07 EasyPHP Apache stop event: ap13916_shutdown
+26/02 17:29:07 EasyPHP Apache::StopExe stop event ap13916_shutdown fail : 2
+26/02 17:29:08 EasyPHP MySqlSutdown event = MySQLShutdown14240
+26/02 17:29:08 EasyPHP MySqlSutdown event open fail = 2
+26/02 17:29:08 EasyPHP End EasyPHP...
+29/02 16:03:39 EasyPHP EasyPHP Servers starting
+29/02 16:03:39 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+29/02 16:03:39 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+29/02 16:03:44 EasyPHP EasyPHP &Check version
+29/02 17:12:24 EasyPHP EasyPHP Stop the servers
+29/02 17:12:24 EasyPHP Apache stop event: ap7852_shutdown
+29/02 17:12:24 EasyPHP Apache::StopExe stop event ap7852_shutdown fail : 2
+29/02 17:12:25 EasyPHP MySqlSutdown event = MySQLShutdown268
+29/02 17:12:25 EasyPHP MySqlSutdown event open fail = 2
+29/02 17:12:25 EasyPHP End EasyPHP...
+06/03 16:08:31 EasyPHP EasyPHP Servers starting
+06/03 16:08:32 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+06/03 16:08:32 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+06/03 16:08:37 EasyPHP EasyPHP &Check version
+06/03 17:24:42 EasyPHP EasyPHP Stop the servers
+06/03 17:24:42 EasyPHP Apache stop event: ap25236_shutdown
+06/03 17:24:42 EasyPHP Apache::StopExe stop event ap25236_shutdown fail : 2
+06/03 17:24:42 EasyPHP MySqlSutdown event = MySQLShutdown1836
+06/03 17:24:42 EasyPHP MySqlSutdown event open fail = 2
+06/03 17:24:42 EasyPHP End EasyPHP...
+07/03 14:32:19 EasyPHP EasyPHP Servers starting
+07/03 14:32:20 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+07/03 14:32:20 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+07/03 14:32:25 EasyPHP EasyPHP &Check version
+07/03 14:32:47 EasyPHP EasyPHP Servers starting
+07/03 14:32:47 EasyPHP Apache2.2 ServerBase::Start ScanProcess -> 18256
+07/03 14:32:47 EasyPHP MySQL ServerBase::Start ScanProcess -> 25188
+07/03 14:32:52 EasyPHP EasyPHP &Check version
+07/03 16:19:05 EasyPHP EasyPHP Stop the servers
+07/03 16:19:05 EasyPHP Apache stop event: ap18256_shutdown
+07/03 16:19:05 EasyPHP Apache::StopExe stop event ap18256_shutdown fail : 2
+07/03 16:19:06 EasyPHP MySqlSutdown event = MySQLShutdown25188
+07/03 16:19:06 EasyPHP MySqlSutdown event open fail = 2
+07/03 16:19:06 EasyPHP End EasyPHP...
+11/03 14:19:01 EasyPHP EasyPHP Servers starting
+11/03 14:19:01 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+11/03 14:19:02 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+11/03 14:19:07 EasyPHP EasyPHP &Check version
+11/03 17:27:32 EasyPHP EasyPHP Stop the servers
+11/03 17:27:32 EasyPHP Apache stop event: ap1284_shutdown
+11/03 17:27:32 EasyPHP Apache::StopExe stop event ap1284_shutdown fail : 2
+11/03 17:27:33 EasyPHP MySqlSutdown event = MySQLShutdown11244
+11/03 17:27:33 EasyPHP MySqlSutdown event open fail = 2
+11/03 17:27:33 EasyPHP End EasyPHP...
+14/03 16:02:28 EasyPHP EasyPHP Servers starting
+14/03 16:02:28 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+14/03 16:02:28 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+14/03 16:02:33 EasyPHP EasyPHP &Check version
+14/03 17:25:11 EasyPHP EasyPHP Stop the servers
+14/03 17:25:11 EasyPHP Apache stop event: ap12800_shutdown
+14/03 17:25:11 EasyPHP Apache::StopExe stop event ap12800_shutdown fail : 2
+14/03 17:25:12 EasyPHP MySqlSutdown event = MySQLShutdown17136
+14/03 17:25:12 EasyPHP MySqlSutdown event open fail = 2
+14/03 17:25:12 EasyPHP End EasyPHP...
+18/03 16:00:47 EasyPHP EasyPHP Servers starting
+18/03 16:00:47 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+18/03 16:00:47 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+18/03 16:00:52 EasyPHP EasyPHP &Check version
+18/03 17:29:54 EasyPHP EasyPHP Stop the servers
+18/03 17:29:54 EasyPHP Apache stop event: ap7980_shutdown
+18/03 17:29:54 EasyPHP Apache::StopExe stop event ap7980_shutdown fail : 2
+18/03 17:29:55 EasyPHP MySqlSutdown event = MySQLShutdown212
+18/03 17:29:55 EasyPHP MySqlSutdown event open fail = 2
+18/03 17:29:55 EasyPHP End EasyPHP...
+21/03 13:44:30 EasyPHP EasyPHP Servers starting
+21/03 13:44:30 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+21/03 13:44:30 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+21/03 13:44:35 EasyPHP EasyPHP &Check version
+21/03 14:15:14 EasyPHP EasyPHP Servers starting
+21/03 14:15:14 EasyPHP Apache2.2 ServerBase::Start ScanProcess -> 15792
+21/03 14:15:14 EasyPHP MySQL ServerBase::Start ScanProcess -> 15688
+21/03 14:15:19 EasyPHP EasyPHP &Check version
+21/03 17:21:32 EasyPHP MySql   Unexpected end of MySql !
+21/03 17:21:32 EasyPHP Apache  Unexpected end of Apache !
+21/03 17:21:33 EasyPHP EasyPHP Stop the servers
+25/03 13:13:33 EasyPHP EasyPHP Servers starting
+25/03 13:13:33 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+25/03 13:13:33 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+25/03 13:13:38 EasyPHP EasyPHP &Check version
+25/03 13:27:14 EasyPHP EasyPHP Servers starting
+25/03 13:27:15 EasyPHP Apache2.2 ServerBase::Start ScanProcess -> 10708
+25/03 13:27:15 EasyPHP MySQL ServerBase::Start ScanProcess -> 17180
+25/03 13:27:20 EasyPHP EasyPHP &Check version
+25/03 13:56:59 EasyPHP EasyPHP Stop the servers
+25/03 13:56:59 EasyPHP Apache stop event: ap10708_shutdown
+25/03 13:57:00 EasyPHP MySqlSutdown event = MySQLShutdown17180
+25/03 13:57:00 EasyPHP End EasyPHP...
+25/03 13:57:03 EasyPHP EasyPHP Servers starting
+25/03 13:57:03 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+25/03 13:57:03 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+25/03 13:57:08 EasyPHP EasyPHP &Check version
+25/03 17:27:32 EasyPHP EasyPHP Stop the servers
+25/03 17:27:33 EasyPHP Apache stop event: ap13144_shutdown
+25/03 17:27:33 EasyPHP Apache::StopExe stop event ap13144_shutdown fail : 2
+25/03 17:27:33 EasyPHP MySqlSutdown event = MySQLShutdown7212
+25/03 17:27:33 EasyPHP MySqlSutdown event open fail = 2
+25/03 17:27:34 EasyPHP End EasyPHP...
+27/03 14:57:08 EasyPHP EasyPHP Servers starting
+27/03 14:57:08 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+27/03 14:57:08 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+27/03 14:57:13 EasyPHP EasyPHP &Check version
+27/03 17:29:09 EasyPHP EasyPHP Stop the servers
+27/03 17:29:09 EasyPHP Apache stop event: ap17220_shutdown
+27/03 17:29:09 EasyPHP Apache::StopExe stop event ap17220_shutdown fail : 2
+27/03 17:29:10 EasyPHP MySqlSutdown event = MySQLShutdown1144
+27/03 17:29:10 EasyPHP MySqlSutdown event open fail = 2
+27/03 17:29:10 EasyPHP End EasyPHP...
+01/04 16:07:10 EasyPHP EasyPHP Servers starting
+01/04 16:07:11 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+01/04 16:07:11 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+01/04 16:07:16 EasyPHP EasyPHP &Check version
+01/04 17:27:34 EasyPHP EasyPHP Stop the servers
+01/04 17:27:34 EasyPHP Apache stop event: ap16808_shutdown
+01/04 17:27:34 EasyPHP Apache::StopExe stop event ap16808_shutdown fail : 2
+01/04 17:27:35 EasyPHP MySqlSutdown event = MySQLShutdown7692
+01/04 17:27:35 EasyPHP MySqlSutdown event open fail = 2
+01/04 17:27:35 EasyPHP End EasyPHP...
+03/04 13:24:10 EasyPHP EasyPHP Servers starting
+03/04 13:24:10 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+03/04 13:24:10 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+03/04 13:24:15 EasyPHP EasyPHP &Check version
+03/04 13:24:39 EasyPHP EasyPHP Servers starting
+03/04 13:24:39 EasyPHP Apache2.2 ServerBase::Start ScanProcess -> 2676
+03/04 13:24:39 EasyPHP MySQL ServerBase::Start ScanProcess -> 5340
+03/04 13:24:44 EasyPHP EasyPHP &Check version
+03/04 17:28:37 EasyPHP EasyPHP Stop the servers
+03/04 17:28:37 EasyPHP Apache stop event: ap2676_shutdown
+03/04 17:28:37 EasyPHP Apache::StopExe stop event ap2676_shutdown fail : 2
+03/04 17:28:38 EasyPHP MySqlSutdown event = MySQLShutdown5340
+03/04 17:28:38 EasyPHP MySqlSutdown event open fail = 2
+03/04 17:28:38 EasyPHP End EasyPHP...
+04/04 16:10:20 EasyPHP EasyPHP Servers starting
+04/04 16:10:21 EasyPHP Apache CreateProcess "C:\PROGRA~2\EASYPH~1.9\Apache\bin\apache.exe"
+04/04 16:10:21 EasyPHP CreateProcess "C:\PROGRA~2\EASYPH~1.9\MySql\bin\mysqld.exe --defaults-file="C:\PROGRA~2\EASYPH~1.9\MySql\my.ini" --language=english"
+04/04 16:10:26 EasyPHP EasyPHP &Check version
