@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+    
+    <title>Menu de Cadastros</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+
+        }
+        header{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-right: 15px;
+            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+        }
+        .logo{
+            padding-left: 90px;
+            width: 100px;
+            
+        }
+        .login{
+            height: 60px;
+            width: 60px;
+            padding-right: 100px;
+            padding-top: 15px;
+            
+        }
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .menu {
+            width: 300px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            text-align: center;
+            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+            border-radius: 10px;
+        }
+        .menu a {
+            display: block;
+            margin-bottom: 10px;
+            padding: 10px;
+            text-decoration: none;
+            color: #007bff;
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+        .menu a:hover {
+            color: #0056b3;
+        }
+        li{
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="img/logo site.png" class="logo">
+        <ul>
+            <li><a href="login.html"><img src="img/login.png" alt="" class="login"></a></li>
+        </ul>
+    </header>
+    <div class="container">
+        <div class="menu">
+            <h2><b>Menu de Cadastros:</b></h2>
+            <br>
+            <a href="Cadastros/cadastrarusuarios.htm">Cadastrar Usuarios</a>
+            <a href="Cadastros/cadastrocategoria.html">Cadastrar Categoria</a>
+            <a href="Cadastros/cadastroclassificacao.html">Cadastrar Classificacao</a>
+            <a href="Cadastros/cadastromarca.html">Cadastrar Marca</a>
+            <a href="cadastroprod.html">Cadastrar Produto</a>
+        </div>
+    </div>
+</body>
+</html>
