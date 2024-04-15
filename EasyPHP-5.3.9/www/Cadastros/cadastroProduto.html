@@ -1,0 +1,173 @@
+<html lang="pt-BR" translate="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Cadastro Produto </title>
+    <link rel="stylesheet" href="stylesCadastros.css" type="text/css">
+
+    <style>
+        *{
+                margin: 0;
+                padding: 0;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                background-color: #27262C;
+            }
+            header{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding-right: 15px;
+                background-color: #27262C;
+            }
+            .logo{
+                padding-left: 90px;
+                width: 100px;
+                height: 100px;
+            }
+            .login{
+                height: 60px;
+                width: 60px;
+                padding-right: 100px;
+                padding-top: 15px;
+                
+            }
+            .container {
+            height: 150vh; /* Define a altura do container como 100% da altura da janela de visualização */
+            display: flex; /* Usa flexbox para alinhar itens */
+            justify-content: center; /* Centraliza horizontalmente */
+            align-items: center; /* Centraliza verticalmente */
+            max-width: 800px; /* ou o valor desejado */
+            margin: 0 auto; /* Centraliza horizontalmente na página */
+    }
+    
+            .cadastro{
+                display: flex;
+                padding: 50px;
+                box-shadow:  0 0 10px #4044ED;
+                border-radius: 10px;
+                align-items: center;
+                text-align: center;            
+            }
+            li {
+                list-style-type: none;
+            }   
+            .button {
+                background-color: #27262C; /* Green */
+                border: none;
+                color: white;
+                padding: 5px 5px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                border-radius: 15px;
+                transition-duration: 0.4s;
+                border: 1px solid #4044ED;
+            }
+            .button:hover {
+                background-color: #4044ED; /* Green */
+                color: white;
+            }
+            input[type=text] {
+                width: 100%;
+                padding: 5px 5px;
+                margin: 8px 0;
+                box-sizing: border-box;
+                border: none;
+                border-bottom: 2px solid #4044ED;
+                border-radius: 15px;
+                background-color: #27262C;
+                color: white;
+                
+            }
+            input[type=password] {
+                background-color: #27262C;
+                color: white;
+                width: 100%;
+                padding: 5px 5px;
+                margin: 8px 0;
+                box-sizing: border-box;
+                border: none;
+                border-bottom: 2px solid #4044ED;
+                border-radius: 15px;
+    
+            }
+            ::placeholder{
+                color: white;
+            }
+            h3{
+              
+                font-size: 27px;
+                color: white;
+            }
+        
+        </style>
+</head>
+<body>
+
+
+    <header>
+        <img src="img/logo site.png" width="100" height="100" class="logo">
+        <ul>
+            <li><a href="login.html"><img src="img/login branco.png" alt="" class="login"></a></li>
+        </ul>
+    </header>
+    
+
+<div class="container">
+
+    <div class="cadastro">
+        <table border="0" width="90%" align="center">
+            <tr>
+                <td>
+
+                    <form name="formulario" method="POST" action="cadastroProduto.php" enctype="multipart/form-data">
+                    <h3><center> Cadastro dos Produtos </center></h3>
+                    <br>
+                    
+                    <center>
+                    <input type="text" name="codigo" id="codigo" size=30 placeholder="codigo">
+                    <br><br>
+
+                    <input type="text" name="descricao" id="descricao" size=30 placeholder="descricao">
+                    <br><br>
+
+                    <input type="text" name="codcategoria" id="codcategoria" size=30 placeholder="codcategoria">
+                    <br><br>
+
+                    <input type="text" name="codclassificacao" id="codclassificacao" size=30 placeholder="codclassificacao">
+                    <br><br>
+
+                    <input type="text" name="codesporte" id="codesporte" size=30 placeholder="codesporte">
+                    <br><br>
+
+                    <input type="text" name="codmarca" id="codmarca" size=30 placeholder="codmarca">
+                    <br><br>
+
+                    <input type="text" name="cor" id="cor" size=30 placeholder="Cor">
+                    <br><br>
+
+                    <input type="text" name="tamanho" id="tamanho" size=30 placeholder="Tamanho">
+                    <br><br>
+
+                    <input type="text" name="preco" id="preco" size=30 placeholder="Preco">
+                    <br><br>
+
+                    <input type="file" name="foto1" id="foto1">
+                    <br><br>
+
+                    <input type="submit" name="gravar" value="Gravar" class="button">
+                    <input type="submit" name="excluir" value="Excluir" class="button">
+                    <input type="submit" name="alterar" value="Alterar" class="button">
+                    <input type="submit" name="pesquisar" value="Pesquisar" class="button">
+                    </center>
+                    </form>
+
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+</BODY>
+</HTML>

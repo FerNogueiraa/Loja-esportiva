@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <title>Cadastro Categoria</title>
+    <title>Cadastro Produto</title>
     <link rel="stylesheet" type="text/css" href="main.css">
+
     <style>
-        *{
+    *{
             margin: 0;
             padding: 0;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -15,7 +16,6 @@
             justify-content: space-between;
             align-items: center;
             padding-right: 15px;
-          /*   border-bottom: 1px solid #4044ED;;   */
             background-color: #27262C;
         }
         .logo{
@@ -30,12 +30,15 @@
             padding-top: 15px;
             
         }
-        .container{
-            height: 520px;
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-        }
+        .container {
+        height: 130vh; /* Define a altura do container como 100% da altura da janela de visualização */
+        display: flex; /* Usa flexbox para alinhar itens */
+        justify-content: center; /* Centraliza horizontalmente */
+        align-items: center; /* Centraliza verticalmente */
+        max-width: 800px; /* ou o valor desejado */
+        margin: 0 auto; /* Centraliza horizontalmente na página */
+}
+
         .cadastro{
             display: flex;
             padding: 50px;
@@ -108,12 +111,26 @@
     </header>
     <div class="container">
         <div id="formulario" class="cadastro"> 
-            <h2 style="text-align: center;">Cadastro Categoria</h2>
+            <h2 style="text-align: center;">Cadastro Produto</h2>
             <br>
-            <form name="formulario" method="POST" action="cadastrocategoria.php">
-                <input type="text" name="codigo" id="codigo" size="10" placeholder="Código">
+            <form name="formulario" method="POST" action="cadastromarca.php">
+                <input type="text" name="codigo" id="codigo" size="10" placeholder="Codigo">
                 <br><br>
-                <input type="text" name="descricao" id="descricao" size="30" placeholder="Descrição">
+                <input type="text" name="descricao" id="descricao" size="30" placeholder="Descricao">
+                <br><br>
+                <input type="text" name="codcategoria" id="codcategoria" size="30" placeholder="CodCategoria">
+                <br><br>
+                <input type="text" name="codclassificacao" id="codclassificacao" size="30" placeholder="CodClassificacao">
+                <br><br>
+                <input type="text" name="codesporte" id="codesporte" size="30" placeholder="codEsporte">
+                <br><br>
+                <input type="text" name="codmarca" id="codmarca" size="30" placeholder="codMarca">
+                <br><br>
+                <input type="text" name="cor" id="cor" size="30" placeholder="Cor">
+                <br><br>
+                <input type="text" name="tamanho" id="tamanho" size="30" placeholder="Tamanho">
+                <br><br>
+                <input type="text" name="preco" id="preco" size="30" placeholder="Preco">
                 <br><br>
                 <input type="submit" name="gravar" value="Gravar" class="button">
                 <input type="submit" name="excluir" value="Excluir" class="button">
