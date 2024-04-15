@@ -5,21 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro dos Usuários</title>
     <style>
-        *{
+  *{
             margin: 0;
             padding: 0;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: #27262C;
         }
         header{
             display: flex;
             justify-content: space-between;
             align-items: center;
             padding-right: 15px;
-            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+          /*   border-bottom: 1px solid #4044ED;;   */
+            background-color: #27262C;
         }
         .logo{
             padding-left: 90px;
-            
+            width: 100px;
+            height: 100px;
         }
         .login{
             height: 60px;
@@ -31,18 +34,69 @@
         .container{
             height: 520px;
             display: flex;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
         }
         .cadastro{
+            display: flex;
             padding: 50px;
-            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+            box-shadow:  0 0 10px #4044ED;
             border-radius: 10px;
+            align-items: center;
+            text-align: center;            
         }
         li {
             list-style-type: none;
         }   
+        .button {
+            background-color: #27262C; /* Green */
+            border: none;
+            color: white;
+            padding: 5px 5px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 15px;
+            transition-duration: 0.4s;
+            border: 1px solid #4044ED;
+        }
+        .button:hover {
+            background-color: #4044ED; /* Green */
+            color: white;
+        }
+        input[type=text] {
+            width: 100%;
+            padding: 5px 5px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: none;
+            border-bottom: 2px solid #4044ED;
+            border-radius: 15px;
+            background-color: #27262C;
+            color: white;
+            
+        }
+        input[type=password] {
+            background-color: #27262C;
+            color: white;
+            width: 100%;
+            padding: 5px 5px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: none;
+            border-bottom: 2px solid #4044ED;
+            border-radius: 15px;
 
+        }
+        ::placeholder{
+            color: white;
+        }
+        h2{
+            padding-right: 50px;
+            font-size: 27px;
+            color: white;
+        }
     </style>
     
 </head>
@@ -50,7 +104,7 @@
     <header>
         <img src="img/logo site.png" width="100" height="100" class="logo">
         <ul>
-            <li><a href="login.html"><img src="img/login.png" alt="" class="login"></a></li>
+            <li><a href="login.html"><img src="img/login branco.png" alt="" class="login"></a></li>
         </ul>
     </header>
     <div class="container">
@@ -58,22 +112,18 @@
             <h2 style="text-align: center;">Cadastrar os Usuários</h2>
             <br>
             <form name="formulario" method="post" action="cadastrarusuarios.php">
-                <label>Codigo Usuários</label>
-                <input type="text" name="codigo" id="codigo" size=10 required class="input">
+                <input type="text" name="codigo" id="codigo" size=10 required class="input" placeholder="Código Usuários">
                 <br><br>
-                <label>Nome:</label>
-                <input type="text" name="nome" id="nome" size=30 required class="input">
+                <input type="text" name="nome" id="nome" size=30 required class="input" placeholder="Nome">
                 <br><br>
-                <label for="">Login:</label>
-                <input type="text" name="login" id="login" size=20 required class="input">
+                <input type="text" name="login" id="login" size=20 required class="input" placeholder="Login">
                 <br><br>
-                <label for="">Senha:</label>
-                <input type="password" name="senha" id="senha" size=20 required class="input">
+                <input type="password" name="senha" id="senha" size=20 required class="input" placeholder="Senha">
                 <br><br>
-                <input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar" class="botao">
-                <input type="submit" value="Excluir" id="excluir" name="excluir" class="botao">
-                <input type="submit" value="Alterar" id="alterar" name="alterar" class="botao">
-                <input type="submit" value="Pesquisar" id="pesquisar" name="pesquisar" class="botao">
+                <input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar" class="button">
+                <input type="submit" value="Excluir" id="excluir" name="excluir" class="button">
+                <input type="submit" value="Alterar" id="alterar" name="alterar" class="button">
+                <input type="submit" value="Pesquisar" id="pesquisar" name="pesquisar" class="button">
             </form>
         </div>
     </div>

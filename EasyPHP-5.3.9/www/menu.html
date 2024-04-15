@@ -1,33 +1,29 @@
 <!DOCTYPE html>
-
 <html>
-    <head>
-    
+<head>
     <title>Menu de Cadastros</title>
     <style>
         *{
             margin: 0;
             padding: 0;
-
+            background-color: #27262C;
         }
         header{
             display: flex;
             justify-content: space-between;
             align-items: center;
             padding-right: 15px;
-            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+            background-color: #27262C;
         }
         .logo{
             padding-left: 90px;
             width: 100px;
-            
         }
         .login{
             height: 60px;
             width: 60px;
             padding-right: 100px;
             padding-top: 15px;
-            
         }
         body {
             font-family: Arial, sans-serif;
@@ -43,7 +39,6 @@
             padding: 20px;
             border: 1px solid #ccc;
             border-radius: 5px;
-            background-color: #f9f9f9;
             text-align: center;
             box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
             border-radius: 10px;
@@ -53,15 +48,34 @@
             margin-bottom: 10px;
             padding: 10px;
             text-decoration: none;
-            color: #007bff;
+            color: #ffffff;
             font-size: 16px;
             transition: color 0.3s ease;
         }
         .menu a:hover {
-            color: #0056b3;
+            color: #000000;
         }
         li{
             list-style-type: none;
+        }
+        h2{
+            color: white;
+        }
+        .button {
+            background-color: #27262C; /* Green */
+            border: none;
+            color: white;
+            padding: 5px 5px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 15px;
+            transition-duration: 0.4s;
+        }
+        .button:hover {
+            background-color: #4044ED; /* Green */
+            color: white;
         }
     </style>
 </head>
@@ -69,18 +83,18 @@
     <header>
         <img src="img/logo site.png" class="logo">
         <ul>
-            <li><a href="login.html"><img src="img/login.png" alt="" class="login"></a></li>
+            <li><a href="login.html"><img src="img/login branco.png" alt="" class="login"></a></li>
         </ul>
     </header>
     <div class="container">
         <div class="menu">
             <h2><b>Menu de Cadastros:</b></h2>
             <br>
-            <a href="Cadastros/cadastrarusuarios.htm">Cadastrar Usuarios</a>
-            <a href="Cadastros/cadastrocategoria.html">Cadastrar Categoria</a>
-            <a href="Cadastros/cadastroclassificacao.html">Cadastrar Classificacao</a>
-            <a href="Cadastros/cadastromarca.html">Cadastrar Marca</a>
-            <a href="cadastroprod.html">Cadastrar Produto</a>
+            <a href="Cadastros/cadastrarusuarios.htm" class="button">Cadastrar Usuarios</a>
+            <a href="Cadastros/cadastrocategoria.html" class="button">Cadastrar Categoria</a>
+            <a href="Cadastros/cadastroclassificacao.html" class="button">Cadastrar Classificacao</a>
+            <a href="Cadastros/cadastromarca.html" class="button">Cadastrar Marca</a>
+            <a href="cadastroprod.html" class="button">Cadastrar Produto</a>
         </div>
     </div>
 </body>

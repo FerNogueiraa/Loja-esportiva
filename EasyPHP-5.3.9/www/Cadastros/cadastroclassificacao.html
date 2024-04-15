@@ -8,17 +8,20 @@
             margin: 0;
             padding: 0;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: #27262C;
         }
         header{
             display: flex;
             justify-content: space-between;
             align-items: center;
             padding-right: 15px;
-            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+          /*   border-bottom: 1px solid #4044ED;;   */
+            background-color: #27262C;
         }
         .logo{
             padding-left: 90px;
-            
+            width: 100px;
+            height: 100px;
         }
         .login{
             height: 60px;
@@ -30,18 +33,70 @@
         .container{
             height: 520px;
             display: flex;
-            justify-content: center;
+            justify-content: space-around;
             align-items: center;
         }
         .cadastro{
+            display: flex;
             padding: 50px;
-            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+            box-shadow:  0 0 10px #4044ED;
             border-radius: 10px;
+            align-items: center;
+            text-align: center;            
         }
         li {
             list-style-type: none;
         }   
+        .button {
+            background-color: #27262C; /* Green */
+            border: none;
+            color: white;
+            padding: 5px 5px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 15px;
+            transition-duration: 0.4s;
+            border: 1px solid #4044ED;
+        }
+        .button:hover {
+            background-color: #4044ED; /* Green */
+            color: white;
+        }
+        input[type=text] {
+            width: 100%;
+            padding: 5px 5px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: none;
+            border-bottom: 2px solid #4044ED;
+            border-radius: 15px;
+            background-color: #27262C;
+            color: white;
+            
+        }
+        input[type=password] {
+            background-color: #27262C;
+            color: white;
+            width: 100%;
+            padding: 5px 5px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: none;
+            border-bottom: 2px solid #4044ED;
+            border-radius: 15px;
 
+        }
+        ::placeholder{
+            color: white;
+        }
+        h2{
+            padding-right: 50px;
+            font-size: 27px;
+            color: white;
+        }
+    
     </style>
 </head>
 <body>
@@ -53,19 +108,17 @@
     </header>
     <div class="container">
         <div id="formulario" class="cadastro"> 
-            <h2 style="text-align: center;">Cadastro Classificacao</h2>
+            <h2 style="text-align: center;">Cadastro Classificação</h2>
             <br>
             <form name="formulario" method="POST" action="cadastroclassificacao.php">
-                <label>Codigo:</label>
-                <input type="text" name="codigo" id="codigo" size="10">
+                <input type="text" name="codigo" id="codigo" size="10" placeholder="Código">
                 <br><br>
-                <label>Nome:</label>
-                <input type="text" name="nome" id="nome" size="30">
+                <input type="text" name="nome" id="nome" size="30" placeholder="Nome">
                 <br><br>
-                <input type="submit" name="gravar" value="Gravar">
-                <input type="submit" name="excluir" value="Excluir">
-                <input type="submit" name="alterar" value="Alterar">
-                <input type="submit" name="pesquisar" value="Pesquisar">
+                <input type="submit" name="gravar" value="Gravar" class="button">
+                <input type="submit" name="excluir" value="Excluir" class="button">
+                <input type="submit" name="alterar" value="Alterar" class="button">
+                <input type="submit" name="pesquisar" value="Pesquisar" class="button">
             </form>
         </div>
     </div>

@@ -10,13 +10,15 @@
             margin: 0;
             padding: 0;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: #27262C;
         }
         header{
             display: flex;
             justify-content: space-between;
             align-items: center;
             padding-right: 15px;
-            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+          /*   border-bottom: 1px solid #4044ED;;   */
+            background-color: #27262C;
         }
         .logo{
             padding-left: 90px;
@@ -37,33 +39,73 @@
             align-items: center;
         }
         .cadastro{
+            display: flex;
             padding: 50px;
-            box-shadow:  0 0 10px rgba(0, 0, 0, 0.342);
+            box-shadow:  0 0 10px #4044ED;
             border-radius: 10px;
+            align-items: center;
+            text-align: center;            
         }
         li {
             list-style-type: none;
         }   
-
+        .button {
+            background-color: #27262C; /* Green */
+            border: none;
+            color: white;
+            padding: 3px 3px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 15px;
+            transition-duration: 0.4s;
+            border: 1px solid #4044ED;
+        }
+        .button:hover {
+            background-color: #4044ED; /* Green */
+            color: white;
+        }
+        input[type=text] {
+            width: 100%;
+            padding: 5px 5px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: none;
+            border-bottom: 2px solid #4044ED;
+            border-radius: 15px;
+            background-color: #27262C;
+            color: white;
+        }
+        input[type=password] {
+            background-color: #27262C;
+            color: white;
+            width: 100%;
+            padding: 5px 5px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: none;
+            border-bottom: 2px solid #4044ED;
+            border-radius: 15px;
+        }
+        ::placeholder{
+            color: white;
+        }
     </style>
 </head>
 <body>
     <header>
         <img src="img/logo site.png"  class="logo">
-        <ul>
-            <li><a href="login.html"><img src="img/login.png" alt="" class="login"></a></li>
-        </ul>
+
     </header>
     <div class="container">
         <div class="cadastro">
             <form name="formulario" method="post" action="login.php">
-                <label for="">Login:</label>
-                <input type="text" name="login" id="login" size=20 required class="input">
+                <input type="text" name="login" id="login" size=20 required class="input" placeholder="Login">
                 <br><br>
-                <label for="">Senha:</label>
-                <input type="password" name="senha" id="senha" size=20 required class="input">
+                <input type="password" name="senha" id="senha" size=20 required class="input" placeholder="Senha">
                 <br><br>
-                <a href="menuopcoes.html"><input type="submit" value="Conectar" id="conectar" name="conectar" class="input"></a>
+                <a href="menu.html" class="button"><input type="submit" value="Conectar" id="conectar" name="conectar" class="button"></a>
             </form>
         </div>
     </div>
